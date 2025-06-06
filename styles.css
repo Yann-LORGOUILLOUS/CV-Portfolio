@@ -133,7 +133,7 @@ h2 {
 .bar.quart::after { --fill: 25%; }
 .bar.fifty::after { --fill: 50%; }
 .bar.sixty::after { --fill: 60%; }
-.bar.heighty::after { --fill: 80%; }
+.bar.eighty::after { --fill: 80%; }
 .bar.empty::after { --fill: 0%; }
 
 /* --- PROJETS --- */
